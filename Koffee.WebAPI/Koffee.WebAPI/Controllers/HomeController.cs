@@ -10,7 +10,7 @@ namespace Koffee.WebAPI.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Kofee Kult";
 
             return View();
         }
